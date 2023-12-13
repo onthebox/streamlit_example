@@ -1,0 +1,5 @@
+#ipynb cash
+.ipynb_checkpoints
+
+#venv
+venv
